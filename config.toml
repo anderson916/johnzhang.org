@@ -1,0 +1,4 @@
+baseURL = "https://www.johnzhang.org"
+languageCode = "en-us"
+title = "John Zhang"
+theme = "ananke"
