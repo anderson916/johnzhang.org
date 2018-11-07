@@ -1,11 +1,11 @@
 title = "但如今"
 baseURL = "https://www.johnzhang.org"
-languageCode = "zh-CN"
+languageCode = "zh-cn"
 theme = "ananke"
 themesDir = "themes"
 hasCJKLanguage = true
 MetaDataFormat = "yaml"
-DefaultContentLanguage = "zh-CN"
+DefaultContentLanguage = "zh-cn"
 SectionPagesMenu = "main"
 Paginate = 10 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
