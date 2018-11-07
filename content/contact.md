@@ -7,7 +7,7 @@ menu:
 
 ---
 
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service. 
+若您有任何事项需与我联络，请通过下面的表格详细说明，我会在收到信息后第一时间回复，谢谢。 
 
 
 {{< form-contact action="https://formspree.io/anderson916@gmail.com"  >}}
