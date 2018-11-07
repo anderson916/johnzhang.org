@@ -3,7 +3,8 @@ title: "捐助"
 date: 2018-11-07T16:44:25-05:00
 featured_image: ""
 tags: []
-draft: false
+menu:
+  main: {}
 type: page
 ---
 
