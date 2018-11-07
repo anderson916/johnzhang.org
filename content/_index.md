@@ -1,6 +1,6 @@
 ---
 title: ""
-featured_image: '/images/IMG_20181107_133115.jpg'
+featured_image: ''
 description: ""
 ---
 欢迎访问
