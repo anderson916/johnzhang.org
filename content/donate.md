@@ -17,5 +17,5 @@ type: page
 [1]: 
 /images/wechat.jpg
 
-[1]: 
+[2]: 
 /images/alipay.jpg
