@@ -17,5 +17,8 @@ type: page
 [1]: 
 /images/wechat.jpg
 
-[2]: 
-/images/alipay.jpg
+[2]: /images/alipay.jpg
+
+
+
+**防辐射**
