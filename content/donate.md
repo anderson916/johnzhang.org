@@ -14,19 +14,6 @@ type: page
 <br><br>
 ![2]
 
-[1]: 
-/images/wechat.jpg
+[1]: /images/wechat.jpg
 
 [2]: /images/alipay.jpg
-
-
-
-**防辐射**
-
-*#afsff# f sfs  ff* 
-
-
-
-
-
-*<u>fsfsfs fs</u>*
